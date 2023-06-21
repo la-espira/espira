@@ -25,6 +25,10 @@ The project was inspired by [GadgetBridge](https://gadgetbridge.org)  and
 
 ![](doc/Data_Model.Logical.jpg)
 
+## Naming
+
+- [Naming Convention](doc/Naming_convention.md)
+
 # Installation
 
 ...
@@ -43,3 +47,7 @@ The project was inspired by [GadgetBridge](https://gadgetbridge.org)  and
 - Import data from files
 - Import data from Google Fit
 - HTTP Sensor: get data from external source via HTTP(S) in JSON, YAML
+
+# Work Log
+
+- [Work Log](doc/WorkLog.md)
